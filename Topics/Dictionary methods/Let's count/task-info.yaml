@@ -1,0 +1,19 @@
+type: number
+files:
+- name: answer.txt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 12
+    placeholder_text: 请在此处输入您的解决方案
+    initial_state:
+      length: 12
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+  text: 请在此处输入您的解决方案
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9139#comment
+status: Solved
+record: -1

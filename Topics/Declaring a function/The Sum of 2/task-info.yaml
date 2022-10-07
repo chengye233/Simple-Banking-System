@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # implement the function below
+    def get_sum(a, b):
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5908#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 06 Oct 2022 06:52:47 UTC
+record: -1

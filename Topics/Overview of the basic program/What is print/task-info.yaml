@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: an expression
+- text: a statement
+- text: a command
+- text: a function
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6556#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 03 Oct 2022 13:22:32 UTC
+record: -1
+selected_options:
+- 3
+local_check: false

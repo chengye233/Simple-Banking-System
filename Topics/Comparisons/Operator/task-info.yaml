@@ -1,0 +1,30 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: is
+- text: ===
+- text: ==
+- text: '&gt;='
+- text: '&lt;='
+- text: '!='
+- text: not in
+- text: =&gt;
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6374#comment
+status: Failed
+feedback:
+  message: 答案选择将在下一次乱序。
+  time: Tue, 04 Oct 2022 09:28:54 UTC
+record: -1
+selected_options:
+- 0
+- 1
+- 6
+- 7
+local_check: false
